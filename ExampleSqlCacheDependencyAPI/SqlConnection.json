@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MySqlCacheDependencyDbConnection": "Server=DESKTOP-257PM20\\SQLEXPRESS;Database=SQLCacheDependency;Trusted_Connection=True;"
+  }
+}
