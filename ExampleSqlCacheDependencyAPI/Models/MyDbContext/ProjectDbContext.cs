@@ -4,7 +4,7 @@ namespace ExampleSqlCacheDependencyAPI.Models.MyDbContext;
 public class ProjectDbContext : DbContext
 {
     public DbSet<Telephone> Telephones { get; set; }
-    public DbSet<Employee> Employees { get; set; }
+    
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
